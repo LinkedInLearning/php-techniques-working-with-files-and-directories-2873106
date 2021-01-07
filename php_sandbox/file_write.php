@@ -12,7 +12,11 @@ if($handle) {
 }
 
 $filepath = __DIR__ . '/sample_file2.txt';
-$data = 'A page of data';
+
+// Unix/Mac new lines are "\n"
+// Windows new lines are "\r\n"
+// double-quotes matter
+$data = "A page of data\n111\n222\n333\n";
 
 file_put_contents($filepath, $data);
 
