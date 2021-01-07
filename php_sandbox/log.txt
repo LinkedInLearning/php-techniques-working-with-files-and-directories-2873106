@@ -1,0 +1,6 @@
+2021-01-07 21:35:59 - Test
+2021-01-07 21:35:59 - Login: jsmith logged in
+2021-01-07 21:35:59 - Logout: jsmith logged out
+2021-01-07 21:36:09 - Test
+2021-01-07 21:36:09 - Login: jsmith logged in
+2021-01-07 21:36:09 - Logout: jsmith logged out
