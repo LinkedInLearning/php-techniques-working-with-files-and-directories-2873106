@@ -6,6 +6,13 @@ $handle = opendir($dirpath);
 if($handle) {
 
   while(false !== ($entry = readdir($handle))) {
+    // skip . and .. files
+    if($entry == '.' || $entry == '..') { continue; }
+    // skip all dot-files
+    if(stripos($entry, '.') === 0) { continue; }
+    // skip all directories
+    if(is_dir($dirpath . '/' . $entry)) { continue; }
+
     echo $entry . "<br />";
   }
 
