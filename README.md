@@ -39,4 +39,4 @@ _Founder of Nova Fabrica_
 Check out some of my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/kevin-skoglund).
 
 [lil-course-url]: https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories
-[lil-thumbnail-url]: https://cdn.lynda.com/courses/2873106-637501939958684355_180x320_thumb.jpg
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2873106/2873106-1614274551834-16x9.jpg
